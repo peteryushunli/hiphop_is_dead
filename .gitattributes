@@ -1,0 +1,3 @@
+# Keep generated results available without dominating code review or language stats.
+web/analyses/**/data.js linguist-generated=true
+web/analyses/**/exports/** linguist-generated=true

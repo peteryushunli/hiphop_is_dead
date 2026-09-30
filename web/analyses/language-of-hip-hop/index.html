@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>The language of hip-hop · 1990–now</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header><a class="wordmark" href="../../">HIP-HOP / ANALYSIS</a><a href="#method">About the sample ↗</a></header>
+<main>
+  <section class="intro">
+    <div class="eyebrow">A living vocabulary study <span id="build-state">Loading data</span></div>
+    <h1>The language<br>of <em>hip-hop.</em></h1>
+    <div class="intro-bottom"><p>From the 1990s to now. Explore the words that distinguish a genre, the language that connects artists, and what changes with time.</p><div class="years">1990<span>—</span>2026<small>Through September 30 · partial year</small></div></div>
+    <p class="credit">An independent recreation and extension of <a href="https://pudding.cool/2017/09/hip-hop-words/">The Pudding’s 2017 analysis</a>. This edition uses an explicit artist sample; it does not contain every song from the original.</p>
+  </section>
+  <div id="loading-error" role="alert" hidden>Analysis data is not available yet. Run hiphop run language-of-hip-hop after collection finishes.</div>
+  <section class="scope" aria-label="Corpus size"><div><strong id="rap-count">—</strong><span>hip-hop songs</span></div><div><strong id="other-count">—</strong><span>comparison songs</span></div><div><strong id="artist-count">—</strong><span>artists observed</span></div><div><strong id="token-count">—</strong><span>words analyzed</span></div></section>
+  <p class="notice" id="coverage-notice"></p>
+  <section id="words">
+    <div class="section-head"><div><div class="eyebrow">01 / A genre’s vocabulary</div><h2>What sounds like hip-hop?</h2></div><label>Release period<select id="period"><option value="all">1990–2026 · all years</option><option value="1990s">1990–1999</option><option value="2000s">2000–2009</option><option value="2010s">2010–2019</option><option value="2020s">2020–2026</option><option value="recent">2023–2026 · recent supplement</option></select></label></div>
+    <p class="lede">A common word is not necessarily a distinctive word. Compare how often each word appears in hip-hop and in the pop, R&B, rock, and country sample.</p>
+    <div class="chart-grid"><div><svg id="scatter" role="img" aria-label="Word frequencies in hip-hop versus other genres"></svg><p class="caption">Words below the diagonal appear more often in hip-hop. Both axes use a logarithmic scale; words absent from the comparison corpus sit on the lower plot boundary.</p><p id="word-detail" class="detail" aria-live="polite"></p></div><div class="ranking"><label>Rank by<select id="ranking-mode"><option value="ratio">Frequency ratio · original approach</option><option value="year_matched_ratio">Ratio with release years matched</option><option value="unique_line_ratio">Ratio with repeated lines counted once</option></select></label><ol id="word-list"></ol><p id="support-note" class="caption"></p></div></div>
+  </section>
+  <section id="time">
+    <div class="section-head"><div><div class="eyebrow">02 / Language in motion</div><h2>Follow a word through time.</h2></div><label>Word<select id="trend-word"></select></label></div>
+    <svg id="trend" role="img" aria-label="Annual word use in the hip-hop sample"></svg>
+    <p class="caption">Occurrences per 10,000 words in the hip-hop sample. Collection changes after 2022; 2026 is incomplete. The line describes this sample, not a measured trend in all music.</p>
+  </section>
+  <section id="artists">
+    <div class="section-head"><div><div class="eyebrow">03 / Lyrical neighbors</div><h2>Different voices. Shared words.</h2></div><label>Explore an artist<select id="artist-select"></select></label></div>
+    <p class="lede">Each dot represents an artist’s collected catalog. Select a name to see signature words and the closest neighbors in vocabulary.</p>
+    <div class="map-grid"><div><svg id="artist-map" role="img" aria-label="Artist vocabulary similarity map"></svg><p class="caption">All years combined. The map uses t-SNE; axes have no units and large-scale distances are not a ranking. Neighbors are calculated from the full TF-IDF vectors.</p></div><aside id="artist-detail" aria-live="polite"></aside></div>
+  </section>
+  <section id="coverage">
+    <div class="eyebrow">04 / What is actually in the data?</div><h2>Coverage comes first.</h2>
+    <p class="lede">Every year should be visible—including the thin ones. Historical records and the recent supplement use different collection methods.</p>
+    <svg id="coverage-chart" role="img" aria-label="Number of hip-hop and comparison songs collected per year"></svg>
+    <div class="legend"><span><i class="rap-swatch"></i>Hip-hop</span><span><i class="other-swatch"></i>Other genres</span></div>
+    <details><summary>View annual song counts</summary><div class="table-wrap"><table><thead><tr><th>Year</th><th>Hip-hop songs</th><th>Other songs</th><th>Collection</th></tr></thead><tbody id="coverage-table"></tbody></table></div></details>
+  </section>
+  <section id="method"><div class="eyebrow">Methods & sources</div><h2>A reproducible first edition.</h2><div class="method-grid">
+    <div><h3>The corpus</h3><p>English lyrics, released from 1990 through September 30, 2026. The cohort combines The Pudding’s published artist roster with newer artists and comparison genres. It is not a random sample or a chart census. Genre labels apply to artists’ catalogs and crossover artists can affect the comparison.</p><p>Historical lyrics come from <a href="https://huggingface.co/datasets/theelderemo/genius-lyrics-cleaned">theelderemo/genius-lyrics-cleaned</a>, derived from <a href="https://www.kaggle.com/datasets/carlosgdcj/genius-song-lyrics-with-language-information">the Genius Song Lyrics dataset</a>. The recent supplement checks up to 100 popularity-sorted catalog entries for each selected contemporary artist and retains up to 40 eligible songs from 2023 onward.</p></div>
+    <div><h3>The calculations</h3><p>Words are lowercased and section labels removed. Apostrophes and slang are retained. Exact lyric duplicates and duplicate artist/title pairs are removed; likely remixes, live versions, demos, and non-song entries are excluded. Songs need at least 50 words.</p><p>Frequency ratios have a small smoothing adjustment and minimum song, artist, and token support. The year-matched option weights comparison-year frequencies to the hip-hop token distribution. The repeated-line option removes identical lines within each song.</p></div>
+    <div><h3>The artist map</h3><p>Each artist needs 20 songs. Signature words use sublinear TF-IDF, keeping words used by at least 10% of eligible hip-hop artists. Each artist’s own name and its components are omitted from their signature list. Cosine similarity determines neighbors. SVD followed by t-SNE produces the map, using a fixed seed.</p><p>Features, hooks, and samples belong to the credited catalog; individual verses are not assigned to performers. Similarity measures vocabulary, not talent, influence, subject matter, or musical sound.</p></div>
+    <div><h3>What this can—and cannot—say</h3><p>These are exploratory rankings for the collected sample. Dates and genre labels still need spot checks. Artist output, missing songs, transcription practices, and the change of source after 2022 can affect the results. A missing word is not proof an artist never used it.</p><p>The source lyrics remain local. This explorer contains aggregate statistics only. Download the <a href="exports/coverage.csv">coverage table</a>, <a href="exports/words-all.csv">word rankings</a>, or <a href="exports/audit.json">collection audit</a>.</p></div>
+  </div><p class="caption" id="provenance"></p></section>
+</main><footer>THE LANGUAGE OF HIP-HOP <span>A study in words, not a verdict on music.</span></footer>
+<div id="tooltip" role="tooltip" hidden></div>
+<script src="data.js?v=6831e878ba1c"></script><script src="app.js"></script>
+</body></html>

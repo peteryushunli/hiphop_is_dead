@@ -1,0 +1,2158 @@
+{
+  "start_year": 1990,
+  "as_of": "2026-09-30",
+  "recent_start_year": 2023,
+  "recent_catalog_pages": 2,
+  "recent_max_songs_per_artist": 40,
+  "min_words_per_song": 50,
+  "min_songs_per_artist": 20,
+  "cohort_type": "published Pudding roster plus editorial additions; not representative of all music",
+  "original_roster_source": "https://pudding.cool/2017/09/hip-hop-words/data/artist_song_counts_full.csv",
+  "artists": [
+    {
+      "artist": "2Pac",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "The Notorious B.I.G.",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Nas",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "JAY-Z",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Wu-Tang Clan",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "OutKast",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "A Tribe Called Quest",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "De La Soul",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Public Enemy",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "N.W.A",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Ice Cube",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Dr. Dre",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Snoop Dogg",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Scarface",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Geto Boys",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Gang Starr",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Mobb Deep",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Mos Def",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Talib Kweli",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Common",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "The Roots",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Lauryn Hill",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Missy Elliott",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Lil’ Kim",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Queen Latifah",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Foxy Brown",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "DMX",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Busta Rhymes",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Eminem",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "MF DOOM",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "50 Cent",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Ludacris",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "T.I.",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Jeezy",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Gucci Mane",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Lil Wayne",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Kanye West",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Nicki Minaj",
+      "genre": "rap",
+      "collect_recent": true
+    },
+    {
+      "artist": "Drake",
+      "genre": "rap",
+      "collect_recent": true
+    },
+    {
+      "artist": "Kendrick Lamar",
+      "genre": "rap",
+      "collect_recent": true
+    },
+    {
+      "artist": "J. Cole",
+      "genre": "rap",
+      "collect_recent": true
+    },
+    {
+      "artist": "Big Sean",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Wale",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Kid Cudi",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Tyler, The Creator",
+      "genre": "rap",
+      "collect_recent": true
+    },
+    {
+      "artist": "Earl Sweatshirt",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Mac Miller",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "A$AP Rocky",
+      "genre": "rap",
+      "collect_recent": true
+    },
+    {
+      "artist": "ScHoolboy Q",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Danny Brown",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Freddie Gibbs",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Pusha T",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Run The Jewels",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Vince Staples",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Denzel Curry",
+      "genre": "rap",
+      "collect_recent": true
+    },
+    {
+      "artist": "Joey Bada$$",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "JID",
+      "genre": "rap",
+      "collect_recent": true
+    },
+    {
+      "artist": "Little Simz",
+      "genre": "rap",
+      "collect_recent": true
+    },
+    {
+      "artist": "Stormzy",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Skepta",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Dave",
+      "genre": "rap",
+      "collect_recent": true
+    },
+    {
+      "artist": "Central Cee",
+      "genre": "rap",
+      "collect_recent": true
+    },
+    {
+      "artist": "Future",
+      "genre": "rap",
+      "collect_recent": true
+    },
+    {
+      "artist": "Young Thug",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Travis Scott",
+      "genre": "rap",
+      "collect_recent": true
+    },
+    {
+      "artist": "Migos",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "21 Savage",
+      "genre": "rap",
+      "collect_recent": true
+    },
+    {
+      "artist": "Lil Uzi Vert",
+      "genre": "rap",
+      "collect_recent": true
+    },
+    {
+      "artist": "Playboi Carti",
+      "genre": "rap",
+      "collect_recent": true
+    },
+    {
+      "artist": "Lil Baby",
+      "genre": "rap",
+      "collect_recent": true
+    },
+    {
+      "artist": "Gunna",
+      "genre": "rap",
+      "collect_recent": true
+    },
+    {
+      "artist": "Kodak Black",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Lil Yachty",
+      "genre": "rap",
+      "collect_recent": true
+    },
+    {
+      "artist": "Juice WRLD",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Pop Smoke",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Lil Durk",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Cardi B",
+      "genre": "rap",
+      "collect_recent": true
+    },
+    {
+      "artist": "Megan Thee Stallion",
+      "genre": "rap",
+      "collect_recent": true
+    },
+    {
+      "artist": "Doja Cat",
+      "genre": "rap",
+      "collect_recent": true
+    },
+    {
+      "artist": "Latto",
+      "genre": "rap",
+      "collect_recent": true
+    },
+    {
+      "artist": "GloRilla",
+      "genre": "rap",
+      "collect_recent": true
+    },
+    {
+      "artist": "Ice Spice",
+      "genre": "rap",
+      "collect_recent": true
+    },
+    {
+      "artist": "Doechii",
+      "genre": "rap",
+      "collect_recent": true
+    },
+    {
+      "artist": "Sexyy Red",
+      "genre": "rap",
+      "collect_recent": true
+    },
+    {
+      "artist": "Rapsody",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Noname",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "billy woods",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "JPEGMAFIA",
+      "genre": "rap",
+      "collect_recent": true
+    },
+    {
+      "artist": "Big Tymers",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Desiigner",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "OJ Da Juiceman",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "G-Eazy",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Styles P",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Mike Jones",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "O.C.",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "3rd Bass",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Maino",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Paul Wall",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Shawty Lo",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Ying Yang Twins",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Jadakiss",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Mistah F.A.B.",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "D.J. Jazzy Jeff & The Fresh Prince",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Slim Thug",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "D.R.A.M.",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Keith Murray",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Big K.R.I.T.",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Fugees",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Camp Lo",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Que",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Tha Dogg Pound",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Chubb Rock",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Hopsin",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Brand Nubian",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Russ",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Skeme",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Lupe Fiasco",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Juvenile",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Raekwon",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Three 6 Mafia",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Ma$e",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "The Alchemist",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Lil Bibby",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Ja Rule",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "KYLE",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Childish Gambino",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "M.C. Hammer",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Wyclef Jean",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "The Beatnuts",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "A Boogie Wit da Hoodie",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Eve",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Iggy Azalea",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Nate Dogg",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Ghostface Killah",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "YelaWolf",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Big Daddy Kane",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Kardinal Offishall",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "YG",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Ice-T",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Big Boi",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "KRS-One",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Onyx",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Xzibit",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Juelz Santana",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "RZA",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "House Of Pain",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Jay Rock",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Birdman",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Fat Joe",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "K Camp",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Remy Ma",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Trick Daddy",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Lil Dicky",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "The 2 Live Crew",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "I LOVE MAKONNEN",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Eric B. & Rakim",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Beanie Sigel",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Rick Ross",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "The D.O.C.",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Pras Michel",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Juicy J",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Big Pun",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Eazy-E",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Slick Rick",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Soulja Boy Tell'em",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Pharoahe Monch",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Kool G Rap",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Mia X",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Waka Flocka Flame",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Fabolous",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "UGK",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Nelly",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Travis Porter",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Sir Mix-A-Lot",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "XXXTENTACION",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "GZA",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "French Montana",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "YoungBloodZ",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Jim Jones",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Warren G",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Black Rob",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Tinie Tempah",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Kurtis Blow",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Bubba Sparxxx",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Cypress Hill",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Obie Trice",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Fetty Wap",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Dae Dae",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "IamSu!",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Bankroll Fresh",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Problem",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Cyhi The Prynce",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "YFN Lucci",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Clipse",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "The Pharcyde",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Lost Boyz",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Naughty By Nature",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Dilated Peoples",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Vanilla Ice",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Curren$Y",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Chingy",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Tony Yayo",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Coolio",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Rich Homie Quan",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Young Buck",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Trinidad James",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Royce Da 5'9",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Logic",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Grand Puba",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Young Chris",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Shyne",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Chance The Rapper",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Dana Dane",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Project Pat",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Tha Alkaholiks",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Mack 10",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Flo Rida",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Salt-N-Pepa",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "JD",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Action Bronson",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "King Chip",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Slum Village",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "MadeinTYO",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Yung Joc",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Machine Gun Kelly",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Pastor Troy",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Silkk The Shocker",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Lil' Flip",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Big L",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Chief Keef",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "N.O.R.E.",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Memphis Bleek",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Young Gunz",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "P. Diddy",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Cam'ron",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "MC Eiht",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Erick Sermon",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Q-Tip",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Kid Ink",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Lords Of The Underground",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Chamillionaire",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Ca$h Out",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "OG Maco",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "B.o.B",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "O.T. Genasis",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Macklemore & Ryan Lewis",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Goodie Mob",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Sage The Gemini",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Wiz Khalifa",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Petey Pablo",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Monty",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Ace Hood",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "D12",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Ugly God",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "LL Cool J",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Canibus",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Post Malone",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "T-Wayne",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "E-40",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Field Mob",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Bun B",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Killer Mike",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Kool Moe Dee",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Digable Planets",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Yo Gotti",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Lil' Boosie",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Beastie Boys",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "G-Unit",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Biz Markie",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Master P",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Too $hort",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Kevin Gates",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Plies",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Young Dro",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Murphy Lee",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "MC Lyte",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Doug E. Fresh",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Freeway",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Tech N9ne",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Kirko Bangz",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Lil Reese",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Twista",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "T-Pain",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Lloyd Banks",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Nipsey Hussle",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Bow Wow",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Boogie Down Productions",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Method Man",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "B.G.",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Young Dolph",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Chevy Woods",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Hoodie Allen",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Nappy Roots",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "EPMD",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "The Game",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Dreezy",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "2 Chainz",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Lil Scrappy",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Tink",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Tyga",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Young MC",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Young M.A",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "NAV",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Soulja Slim",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Arrested Development",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Das EFX",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "The Lox",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Webbie",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Krayzie Bone",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Redman",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Bone Thugs-N-Harmony",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Shy Glizzy",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "David Banner",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "A$AP Ferg",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Lil Jon",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Cappadonna",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Black Sheep",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Digital Underground",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Rocko",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Cassidy",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Towkio",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Mystikal",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Luniz",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Craig Mack",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Roscoe Dash",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Ol' Dirty Bastard",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Crime Mob",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Gorilla Zoe",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Kris Kross",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Jidenna",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Meek Mill",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "AZ",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "DeJ Loaf",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Joe Budden",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Da Brat",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Run-D.M.C.",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "DJ Quik",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Afroman",
+      "genre": "rap",
+      "collect_recent": false
+    },
+    {
+      "artist": "Madonna",
+      "genre": "pop",
+      "collect_recent": false
+    },
+    {
+      "artist": "Michael Jackson",
+      "genre": "pop",
+      "collect_recent": false
+    },
+    {
+      "artist": "Mariah Carey",
+      "genre": "pop",
+      "collect_recent": false
+    },
+    {
+      "artist": "Whitney Houston",
+      "genre": "pop",
+      "collect_recent": false
+    },
+    {
+      "artist": "Britney Spears",
+      "genre": "pop",
+      "collect_recent": false
+    },
+    {
+      "artist": "Christina Aguilera",
+      "genre": "pop",
+      "collect_recent": false
+    },
+    {
+      "artist": "P!nk",
+      "genre": "pop",
+      "collect_recent": false
+    },
+    {
+      "artist": "Katy Perry",
+      "genre": "pop",
+      "collect_recent": false
+    },
+    {
+      "artist": "Lady Gaga",
+      "genre": "pop",
+      "collect_recent": false
+    },
+    {
+      "artist": "Taylor Swift",
+      "genre": "pop",
+      "collect_recent": true
+    },
+    {
+      "artist": "Ariana Grande",
+      "genre": "pop",
+      "collect_recent": true
+    },
+    {
+      "artist": "Justin Bieber",
+      "genre": "pop",
+      "collect_recent": false
+    },
+    {
+      "artist": "Ed Sheeran",
+      "genre": "pop",
+      "collect_recent": false
+    },
+    {
+      "artist": "Adele",
+      "genre": "pop",
+      "collect_recent": false
+    },
+    {
+      "artist": "Dua Lipa",
+      "genre": "pop",
+      "collect_recent": true
+    },
+    {
+      "artist": "Billie Eilish",
+      "genre": "pop",
+      "collect_recent": true
+    },
+    {
+      "artist": "Olivia Rodrigo",
+      "genre": "pop",
+      "collect_recent": true
+    },
+    {
+      "artist": "Sabrina Carpenter",
+      "genre": "pop",
+      "collect_recent": true
+    },
+    {
+      "artist": "Chappell Roan",
+      "genre": "pop",
+      "collect_recent": true
+    },
+    {
+      "artist": "Tate McRae",
+      "genre": "pop",
+      "collect_recent": true
+    },
+    {
+      "artist": "Charli xcx",
+      "genre": "pop",
+      "collect_recent": true
+    },
+    {
+      "artist": "Harry Styles",
+      "genre": "pop",
+      "collect_recent": false
+    },
+    {
+      "artist": "Miley Cyrus",
+      "genre": "pop",
+      "collect_recent": true
+    },
+    {
+      "artist": "Mary J. Blige",
+      "genre": "rb",
+      "collect_recent": false
+    },
+    {
+      "artist": "TLC",
+      "genre": "rb",
+      "collect_recent": false
+    },
+    {
+      "artist": "Aaliyah",
+      "genre": "rb",
+      "collect_recent": false
+    },
+    {
+      "artist": "Usher",
+      "genre": "rb",
+      "collect_recent": false
+    },
+    {
+      "artist": "D’Angelo",
+      "genre": "rb",
+      "collect_recent": false
+    },
+    {
+      "artist": "Erykah Badu",
+      "genre": "rb",
+      "collect_recent": false
+    },
+    {
+      "artist": "Alicia Keys",
+      "genre": "rb",
+      "collect_recent": false
+    },
+    {
+      "artist": "Beyoncé",
+      "genre": "rb",
+      "collect_recent": true
+    },
+    {
+      "artist": "Rihanna",
+      "genre": "rb",
+      "collect_recent": false
+    },
+    {
+      "artist": "Ne-Yo",
+      "genre": "rb",
+      "collect_recent": false
+    },
+    {
+      "artist": "Frank Ocean",
+      "genre": "rb",
+      "collect_recent": false
+    },
+    {
+      "artist": "Miguel",
+      "genre": "rb",
+      "collect_recent": false
+    },
+    {
+      "artist": "The Weeknd",
+      "genre": "rb",
+      "collect_recent": true
+    },
+    {
+      "artist": "SZA",
+      "genre": "rb",
+      "collect_recent": true
+    },
+    {
+      "artist": "Summer Walker",
+      "genre": "rb",
+      "collect_recent": true
+    },
+    {
+      "artist": "Kehlani",
+      "genre": "rb",
+      "collect_recent": true
+    },
+    {
+      "artist": "Victoria Monét",
+      "genre": "rb",
+      "collect_recent": true
+    },
+    {
+      "artist": "Brent Faiyaz",
+      "genre": "rb",
+      "collect_recent": true
+    },
+    {
+      "artist": "Giveon",
+      "genre": "rb",
+      "collect_recent": true
+    },
+    {
+      "artist": "Daniel Caesar",
+      "genre": "rb",
+      "collect_recent": true
+    },
+    {
+      "artist": "PARTYNEXTDOOR",
+      "genre": "rb",
+      "collect_recent": true
+    },
+    {
+      "artist": "Nirvana",
+      "genre": "rock",
+      "collect_recent": false
+    },
+    {
+      "artist": "Pearl Jam",
+      "genre": "rock",
+      "collect_recent": false
+    },
+    {
+      "artist": "Soundgarden",
+      "genre": "rock",
+      "collect_recent": false
+    },
+    {
+      "artist": "Radiohead",
+      "genre": "rock",
+      "collect_recent": false
+    },
+    {
+      "artist": "Oasis",
+      "genre": "rock",
+      "collect_recent": false
+    },
+    {
+      "artist": "Blur",
+      "genre": "rock",
+      "collect_recent": false
+    },
+    {
+      "artist": "Green Day",
+      "genre": "rock",
+      "collect_recent": true
+    },
+    {
+      "artist": "Foo Fighters",
+      "genre": "rock",
+      "collect_recent": true
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "genre": "rock",
+      "collect_recent": false
+    },
+    {
+      "artist": "Coldplay",
+      "genre": "rock",
+      "collect_recent": true
+    },
+    {
+      "artist": "The Strokes",
+      "genre": "rock",
+      "collect_recent": false
+    },
+    {
+      "artist": "The Killers",
+      "genre": "rock",
+      "collect_recent": false
+    },
+    {
+      "artist": "Paramore",
+      "genre": "rock",
+      "collect_recent": true
+    },
+    {
+      "artist": "Arctic Monkeys",
+      "genre": "rock",
+      "collect_recent": false
+    },
+    {
+      "artist": "Muse",
+      "genre": "rock",
+      "collect_recent": false
+    },
+    {
+      "artist": "Florence + the Machine",
+      "genre": "rock",
+      "collect_recent": false
+    },
+    {
+      "artist": "Hozier",
+      "genre": "rock",
+      "collect_recent": true
+    },
+    {
+      "artist": "Mitski",
+      "genre": "rock",
+      "collect_recent": true
+    },
+    {
+      "artist": "Phoebe Bridgers",
+      "genre": "rock",
+      "collect_recent": false
+    },
+    {
+      "artist": "boygenius",
+      "genre": "rock",
+      "collect_recent": true
+    },
+    {
+      "artist": "Fontaines D.C.",
+      "genre": "rock",
+      "collect_recent": true
+    },
+    {
+      "artist": "Wet Leg",
+      "genre": "rock",
+      "collect_recent": true
+    },
+    {
+      "artist": "Turnstile",
+      "genre": "rock",
+      "collect_recent": true
+    },
+    {
+      "artist": "Garth Brooks",
+      "genre": "country",
+      "collect_recent": false
+    },
+    {
+      "artist": "Shania Twain",
+      "genre": "country",
+      "collect_recent": false
+    },
+    {
+      "artist": "Faith Hill",
+      "genre": "country",
+      "collect_recent": false
+    },
+    {
+      "artist": "Tim McGraw",
+      "genre": "country",
+      "collect_recent": false
+    },
+    {
+      "artist": "Alan Jackson",
+      "genre": "country",
+      "collect_recent": false
+    },
+    {
+      "artist": "George Strait",
+      "genre": "country",
+      "collect_recent": false
+    },
+    {
+      "artist": "Dixie Chicks",
+      "genre": "country",
+      "collect_recent": false
+    },
+    {
+      "artist": "Kenny Chesney",
+      "genre": "country",
+      "collect_recent": false
+    },
+    {
+      "artist": "Carrie Underwood",
+      "genre": "country",
+      "collect_recent": false
+    },
+    {
+      "artist": "Miranda Lambert",
+      "genre": "country",
+      "collect_recent": false
+    },
+    {
+      "artist": "Eric Church",
+      "genre": "country",
+      "collect_recent": false
+    },
+    {
+      "artist": "Luke Bryan",
+      "genre": "country",
+      "collect_recent": false
+    },
+    {
+      "artist": "Kacey Musgraves",
+      "genre": "country",
+      "collect_recent": true
+    },
+    {
+      "artist": "Chris Stapleton",
+      "genre": "country",
+      "collect_recent": true
+    },
+    {
+      "artist": "Maren Morris",
+      "genre": "country",
+      "collect_recent": false
+    },
+    {
+      "artist": "Luke Combs",
+      "genre": "country",
+      "collect_recent": true
+    },
+    {
+      "artist": "Morgan Wallen",
+      "genre": "country",
+      "collect_recent": true
+    },
+    {
+      "artist": "Zach Bryan",
+      "genre": "country",
+      "collect_recent": true
+    },
+    {
+      "artist": "Tyler Childers",
+      "genre": "country",
+      "collect_recent": true
+    },
+    {
+      "artist": "Lainey Wilson",
+      "genre": "country",
+      "collect_recent": true
+    },
+    {
+      "artist": "Jelly Roll",
+      "genre": "country",
+      "collect_recent": true
+    },
+    {
+      "artist": "Shaboozey",
+      "genre": "country",
+      "collect_recent": true
+    },
+    {
+      "artist": "Megan Moroney",
+      "genre": "country",
+      "collect_recent": true
+    }
+  ]
+}
