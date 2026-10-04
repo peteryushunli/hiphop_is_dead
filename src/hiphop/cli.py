@@ -8,7 +8,10 @@ from pathlib import Path
 
 from hiphop.paths import StudyPaths, repository_root
 
-STUDIES = {'language-of-hip-hop': 'hiphop.analyses.language_of_hiphop'}
+STUDIES = {
+    'language-of-hip-hop': 'hiphop.analyses.language_of_hiphop',
+    'rhyme-quality': 'hiphop.analyses.rhyme_quality',
+}
 
 
 def main(argv=None):
@@ -20,13 +23,13 @@ def main(argv=None):
     run.add_argument('study', choices=STUDIES)
     run.add_argument('--allow-partial', action='store_true')
     fetch = commands.add_parser('fetch', help='Acquire or verify local source snapshots')
-    fetch.add_argument('source', choices=['historical', 'recent'])
+    fetch.add_argument('source', choices=['historical', 'recent', 'albums'])
     fetch.add_argument('--study', choices=STUDIES, default='language-of-hip-hop')
     fetch.add_argument('--workers', type=int, default=3)
     fetch.add_argument('--start', type=int, default=0, help='Historical shard offset')
     fetch.add_argument('--limit-artists', type=int, help='Recent collection preview limit')
     cohort = commands.add_parser('cohort', help='Reset a study config to its original editorial cohort')
-    cohort.add_argument('study', choices=STUDIES)
+    cohort.add_argument('study', choices=['language-of-hip-hop'])
     serve = commands.add_parser('serve', help='Serve the hub and aggregate exports only')
     serve.add_argument('--port', type=int, default=8765)
     args = parser.parse_args(argv)
@@ -42,7 +45,12 @@ def main(argv=None):
         if args.workers < 1 or args.start < 0 or (args.limit_artists is not None and args.limit_artists < 1):
             parser.error('workers and limit-artists must be positive; start must be nonnegative')
         paths = StudyPaths(root, args.study)
-        if args.source == 'historical':
+        if args.source == 'albums':
+            if args.study != 'rhyme-quality':
+                parser.error('albums acquisition currently belongs to rhyme-quality')
+            from hiphop.analyses.rhyme_quality.sources import collect_albums
+            collect_albums(root)
+        elif args.source == 'historical':
             from hiphop.sources.huggingface import download_snapshot
             download_snapshot(paths.source, paths.historical, args.workers, args.start)
         else:

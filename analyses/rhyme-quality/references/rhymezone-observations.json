@@ -1,0 +1,146 @@
+{
+  "status": "partial behavioral approximation; exact algorithm not recovered",
+  "source": "User screenshot: history advanced rhymes; additional public rate and credible result tables",
+  "sources": [
+    "https://www.rhymezone.com/help/",
+    "https://www.datamuse.com/api/",
+    "https://www.rhymezone.com/r/rhyme.cgi?Word=rate&org1=syl&org2=l&org3=y&typeofrhyme=nry",
+    "https://www.rhymezone.com/r/rhyme.cgi?Word=credible&org1=syl&org2=l&org3=y&typeofrhyme=nry"
+  ],
+  "hypothesis": "Exact vowel-to-end tails score 100; many single consonant edits cost 8. This does not identify vowel penalties, stress handling, syllabification, or all pronunciation variants.",
+  "observations": [
+    {
+      "a": "history",
+      "b": "mystery",
+      "rating": 100,
+      "source": "user screenshot"
+    },
+    {
+      "a": "history",
+      "b": "mistery",
+      "rating": 100,
+      "source": "user screenshot"
+    },
+    {
+      "a": "history",
+      "b": "blistery",
+      "rating": 100,
+      "source": "user screenshot"
+    },
+    {
+      "a": "history",
+      "b": "the mystery",
+      "rating": 100,
+      "source": "user screenshot"
+    },
+    {
+      "a": "history",
+      "b": "consistory",
+      "rating": 100,
+      "source": "user screenshot"
+    },
+    {
+      "a": "history",
+      "b": "ethnohistory",
+      "rating": 100,
+      "source": "user screenshot"
+    },
+    {
+      "a": "history",
+      "b": "victory",
+      "rating": 92,
+      "source": "user screenshot"
+    },
+    {
+      "a": "history",
+      "b": "contradictory",
+      "rating": 92,
+      "source": "user screenshot"
+    },
+    {
+      "a": "history",
+      "b": "mysteries",
+      "rating": 92,
+      "source": "user screenshot"
+    },
+    {
+      "a": "history",
+      "b": "glittery",
+      "rating": 92,
+      "source": "user screenshot"
+    },
+    {
+      "a": "history",
+      "b": "rotisserie",
+      "rating": 92,
+      "source": "user screenshot"
+    },
+    {
+      "a": "history",
+      "b": "histories",
+      "rating": 92,
+      "source": "user screenshot"
+    },
+    {
+      "a": "history",
+      "b": "the victory",
+      "rating": 92,
+      "source": "user screenshot"
+    },
+    {
+      "a": "history",
+      "b": "the mysteries",
+      "rating": 92,
+      "source": "user screenshot"
+    },
+    {
+      "a": "history",
+      "b": "distally",
+      "rating": 92,
+      "source": "user screenshot"
+    },
+    {
+      "a": "history",
+      "b": "his victory",
+      "rating": 92,
+      "source": "user screenshot"
+    },
+    {
+      "a": "history",
+      "b": "jittery",
+      "rating": 92,
+      "source": "user screenshot"
+    },
+    {
+      "a": "rate",
+      "b": "great",
+      "rating": 100,
+      "source": "public RhymeZone result table"
+    },
+    {
+      "a": "rate",
+      "b": "states",
+      "rating": 92,
+      "source": "public RhymeZone result table"
+    },
+    {
+      "a": "rate",
+      "b": "waste",
+      "rating": 92,
+      "source": "public RhymeZone result table"
+    },
+    {
+      "a": "credible",
+      "b": "legible",
+      "rating": 92,
+      "source": "public RhymeZone result table"
+    },
+    {
+      "a": "credible",
+      "b": "bearable",
+      "rating": 92,
+      "source": "public RhymeZone result table"
+    }
+  ],
+  "access_limit": "Public RhymeZone page and script fetches returned CloudFront 403; browser loaded the shell but no advanced results. No bypass attempted. Datamuse public API worked; its score is documented as a ranking, not a 0–100 rhyme rating."
+}

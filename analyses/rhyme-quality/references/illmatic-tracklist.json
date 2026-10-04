@@ -1,0 +1,16 @@
+{
+  "album": "Illmatic", "artist": "Nas",
+  "source_url": "https://musicbrainz.org/release/f00af81c-9249-49d0-b3f5-8b6725bd1900",
+  "tracks": [
+    {"track": 1, "title": "The Genesis", "archive_title": "The Genesis"},
+    {"track": 2, "title": "N.Y. State of Mind", "archive_title": "N.Y. State of Mind"},
+    {"track": 3, "title": "Life’s a Bitch", "archive_title": "Lifes a Bitch"},
+    {"track": 4, "title": "The World Is Yours", "archive_title": "The World Is Yours"},
+    {"track": 5, "title": "Halftime", "archive_title": "Halftime"},
+    {"track": 6, "title": "Memory Lane (Sittin’ in da Park)", "archive_title": "Memory Lane Sittin in da Park"},
+    {"track": 7, "title": "One Love", "archive_title": "One Love"},
+    {"track": 8, "title": "One Time 4 Your Mind", "archive_title": "One Time 4 Your Mind"},
+    {"track": 9, "title": "Represent", "archive_title": "Represent"},
+    {"track": 10, "title": "It Ain’t Hard to Tell", "archive_title": "It Aint Hard to Tell"}
+  ]
+}
