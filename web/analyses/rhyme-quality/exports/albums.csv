@@ -1,0 +1,4 @@
+album,artist,scored_tracks,eligible_lines,known_endings,unknown_endings,rhyme_links,pattern_links,repeat_only_links,rhyme_before_repeat_links,tentative_slant_links,repeated_syllables_uncredited,mean_rating,median_rating,total_rating_points,mean_syllables,median_syllables,total_rhymed_syllables,weighted_rhyme_syllables,weighted_syllables_per_100_lines,linked_line_percent,perfect_links,max_syllables,marked_adlib_lines,adlib_candidates,adlib_adjusted_lines,adlib_unresolved_lines,possible_slant_pairs,equal_song_mean_rating
+ICEMAN,Drake,18,794,756,38,433,473,35,28,5,141,91.1039,92,39448,1.5566,1,674,605.4,76.2469,54.534,96,5,17,35,17,18,12,91.5031
+Illmatic,Nas,9,499,481,18,182,187,2,4,3,12,93.033,92.0,16932,1.2527,1.0,228,211.12,42.3086,36.4729,63,3,0,1,0,1,3,92.9406
+Culture,Migos,13,701,641,60,241,277,34,21,2,87,91.7178,92,22104,1.3071,1,315,285.88,40.7817,34.3795,56,5,194,30,5,25,2,91.4821

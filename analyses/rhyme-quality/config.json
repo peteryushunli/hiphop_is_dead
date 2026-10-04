@@ -1,0 +1,46 @@
+{
+  "as_of": "2026-10-01",
+  "model_version": "phonetic-suffix-v2",
+  "max_syllables": 6,
+  "lookback_lines": 4,
+  "minimum_rating": 84,
+  "maximum_incremental_cost": 16,
+  "thresholds": [
+    80,
+    84,
+    92
+  ],
+  "scope": "verses",
+  "pronunciation": "first CMU entry; deterministic written-elision normalization; unknown words stop suffix search",
+  "albums": [
+    {
+      "slug": "iceman",
+      "artist": "Drake",
+      "album": "ICEMAN",
+      "genius_album_id": 1395699,
+      "expected_tracks": 18
+    },
+    {
+      "slug": "illmatic",
+      "artist": "Nas",
+      "album": "Illmatic",
+      "expected_tracks": 10,
+      "exclude_tracks": [
+        "The Genesis"
+      ]
+    },
+    {
+      "slug": "culture",
+      "artist": "Migos",
+      "album": "Culture",
+      "expected_tracks": 13,
+      "source": "archive",
+      "release_date": "2017-01-27"
+    }
+  ],
+  "repeated_suffixes": true,
+  "conservative_adlibs": true,
+  "phrase_slants": true,
+  "slant_minimum_rating": 76,
+  "adlib_minimum_support": 2
+}

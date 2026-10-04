@@ -1,0 +1,74 @@
+{
+  "album": "Culture",
+  "artist": "Migos",
+  "release_date": "2017-01-27",
+  "source_url": "https://music.amazon.com/albums/B09W4S8L4K",
+  "crosscheck_url": "https://open.spotify.com/embed/album/4JTOxuvM2jcSqAvEZtZsOO",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Culture",
+      "archive_title": "Culture"
+    },
+    {
+      "track": 2,
+      "title": "T-Shirt",
+      "archive_title": "T-Shirt"
+    },
+    {
+      "track": 3,
+      "title": "Call Casting",
+      "archive_title": "Call Casting"
+    },
+    {
+      "track": 4,
+      "title": "Bad and Boujee",
+      "archive_title": "Bad and Boujee"
+    },
+    {
+      "track": 5,
+      "title": "Get Right Witcha",
+      "archive_title": "Get Right Witcha"
+    },
+    {
+      "track": 6,
+      "title": "Slippery",
+      "archive_title": "Slippery"
+    },
+    {
+      "track": 7,
+      "title": "Big on Big",
+      "archive_title": "Big on Big"
+    },
+    {
+      "track": 8,
+      "title": "What the Price",
+      "archive_title": "What the Price"
+    },
+    {
+      "track": 9,
+      "title": "Brown Paper Bag",
+      "archive_title": "Brown Paper Bag"
+    },
+    {
+      "track": 10,
+      "title": "Deadz",
+      "archive_title": "Deadz"
+    },
+    {
+      "track": 11,
+      "title": "All Ass",
+      "archive_title": "All Ass"
+    },
+    {
+      "track": 12,
+      "title": "Kelly Price",
+      "archive_title": "Kelly Price"
+    },
+    {
+      "track": 13,
+      "title": "Out Yo Way",
+      "archive_title": "Out Yo Way"
+    }
+  ]
+}

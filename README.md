@@ -15,6 +15,7 @@ Visit <http://127.0.0.1:8765/>. Only aggregate results are included in the websi
 | Study | Question | Methods & results |
 | --- | --- | --- |
 | [The language of hip-hop](web/analyses/language-of-hip-hop/index.html) | What distinguishes hip-hop vocabulary, and which artists share it? | [Study documentation](analyses/language-of-hip-hop/README.md) · [CSV exports and audit](web/analyses/language-of-hip-hop/exports) |
+| [End-rhyme quality](web/analyses/rhyme-quality/index.html) | How closely do verse endings rhyme, and across how many syllables? | [Pilot methods and code walkthrough](analyses/rhyme-quality/README.md) · [Exports](web/analyses/rhyme-quality/exports) |
 
 The first study covers 1990 through September 30, 2026: 62,123 hip-hop songs and 15,704 comparison songs. It extends The Pudding’s original artist roster with contemporary artists; it is a new sample, not a literal superset of the original song corpus.
 
